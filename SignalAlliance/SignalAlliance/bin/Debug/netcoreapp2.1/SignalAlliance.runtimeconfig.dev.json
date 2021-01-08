@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\NEXUS MYSTIQUE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\NEXUS MYSTIQUE\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
